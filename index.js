@@ -32,3 +32,4 @@ function func(str, a, b) {
 }
 
 console.log(func("sum", 4, 5))
+ 
